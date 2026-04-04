@@ -63,6 +63,11 @@ README.md → Documentation
 ## Captures d'ecran 
 ### Application android 
 
+https://github.com/user-attachments/assets/0a58295b-dfc4-47fa-821a-7c9adbb53381
+
+### Partie web 
+
+https://github.com/user-attachments/assets/a39204f5-2ac1-456e-9606-c6c1da3c0b9e
 
 
 
